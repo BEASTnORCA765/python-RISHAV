@@ -1,0 +1,2 @@
+ 'w') 
+rows = int(input())
